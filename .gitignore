@@ -6,3 +6,6 @@
 .RData
 .Rhistory
 trainset
+.Rproj.user/*
+*.Rproj
+
