@@ -1,0 +1,7 @@
+*.txt
+*.zip
+.Rproj*
+.Rproj.user
+*.jar 
+*.pdf 
+*.png 
